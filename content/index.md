@@ -1,34 +1,34 @@
 ---
-title: 👋 Hi, I’m Alissa
+title: "Hi, I’m Alissa"
 ---
 
-Cybersecurity engineer by day, illustrator and writer by night.  
-This site is my **technical brain-dump, living notebook, and personal wiki** — a space to collect ideas, guides, and notes I want *Future Me* (and maybe *Future You*) to be able to find quickly.
-
----
-
-## 🔐 What You’ll Find Here
-- **Blue Team & Security Engineering** — automation, logging, detection notes
-- **DevOps for Security** — pipelines, monitoring, and infrastructure reliability
-- **Learning in Public** — small discoveries, “gotchas,” and quick references
-
-Built with [Quartz](https://quartz.jzhao.xyz/), so everything is interlinked and searchable.
+I’m a cybersecurity engineer focused on blue-team infrastructure, network data pipelines, and automation.  
+This site is my technical workspace — a place to document patterns, quick references, and the small discoveries that make systems quieter and more reliable.
 
 ---
 
-## 🌱 About Me
-I work mainly with:
-- Network data pipelines, SOAR automation, and agent orchestration
-- Python microservices and scripting
-- Making noisy systems quieter and more reliable
+## ✧ What I Work On
 
-Outside work:
-- 🎨 Writing and illustrating personal projects
-- 🌸 Collecting books, perfumes, and small pieces of craftsmanship
-- 🕹️ Modding and restoring handheld consoles
-- 🏃 Running through the dunes, organizing my space, and recharging quietly
+- Blue Team & Security Engineering  
+- Python microservices  
+- Logging and data pipelines  
+- Agent orchestration and deployment patterns  
+- Infrastructure reliability and observability
+
+Everything here is written in a concise, reference-first style.
 
 ---
 
-I use this space to think in the open — documenting what I learn so I can understand it better later.
-Feel free to explore, borrow ideas, or just wander through the links.
+## ✧ Knowledge Base
+
+You’ll find:
+
+- Guides and implementation notes  
+- Troubleshooting steps  
+- Designs and architecture patterns  
+- Logging/monitoring experiments  
+- Small “learning in public” write-ups  
+
+Built with **Quartz**, using Markdown so everything stays portable and easy to search.
+
+For details about me as a person and professional, visit the [About](/about) page.

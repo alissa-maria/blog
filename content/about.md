@@ -2,32 +2,29 @@
 title: "About Me"
 ---
 
-I’m Alissa Maria — a system engineer working in cybersecurity, with a focus on designing and maintaining blue-team monitoring environments.
-
-My day-to-day work involves connecting systems, reducing operational noise, and building automation that makes complex environments easier to manage. I care about clarity, reliability, and thoughtful engineering.
+I work as a system engineer in cybersecurity, mainly on blue-team architecture and monitoring environments. My focus is on making systems predictable, scalable, and easier to reason about — with as little noise as possible.
 
 ---
 
 ## ✧ How I Work
 
-- I like systems that are predictable and quiet.  
-- I document things so future-me (and others) don’t need to rediscover them.  
-- I prefer simple, elegant solutions over clever ones.  
-- I’m happiest when improving foundations rather than chasing surface fixes.
+- Prefer predictable, quiet systems  
+- Document decisions so no one has to rediscover them  
+- Favour simple, durable solutions over clever ones  
+- Enjoy improving foundations more than patching surface issues  
 
 ---
 
 ## ✧ Outside Work
 
-My non-technical projects keep me grounded:
+I spend my free time on slower, hands-on projects:
 
-- Writing and illustrating personal creative projects  
-- Collecting books, stationery, and small pieces of craftsmanship  
-- Restoring handheld consoles  
-- Running, reorganizing my space, and slowly improving my skills across different hobbies
-
-These things balance the highly technical nature of my job and help me recharge.
+- Writing and illustrating
+- Collecting books, stationery, and small craftsmanship pieces
+- Modding and restoring handheld consoles
+- Knitting (my most recent struggle)
+- Running, pilates, walking around aimlessly...
 
 ---
 
-If you want to explore the technical notes, head back to the [homepage](/).
+You can return to the [homepage](/) to explore the technical notes.

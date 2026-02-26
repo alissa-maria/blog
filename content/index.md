@@ -1,5 +1,5 @@
 ---
-title: "Hi, I’m Alissa"
+title: "Welcome"
 ---
 
 I’m a cybersecurity engineer focused on blue-team infrastructure, network data pipelines, and automation.  
@@ -31,4 +31,4 @@ You’ll find:
 
 Built with **Quartz**, using Markdown so everything stays portable and easy to search.
 
-For details about me as a person and professional, visit the [About](/about) page.
+For a bit more on who I am outside the technical side, visit the [About](/about) page.

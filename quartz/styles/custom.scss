@@ -1,12 +1,5 @@
 @use "./base.scss";
 
 .right.sidebar {
-  display: none !important;
-}
-
-@media (min-width: 1024px) {
-  #quartz-body {
-    /* tweak values to taste */
-    grid-template-columns: 18rem minmax(0, 1fr);
-  }
+  display: none;
 }

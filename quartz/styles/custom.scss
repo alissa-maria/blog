@@ -30,11 +30,29 @@
 
 .center h2 {
   margin-top: 2rem;
+  position: relative;
+}
+
+.center h2::after {
+  content: "";
+  display: block;
+  width: 24px;
+  height: 1px;
+  background: var(--secondary);
+  opacity: 0.3;
+  margin-top: 0.4rem;
 }
 
 .center hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--lightgray),
+    transparent
+  );
   margin: 2rem 0;
-  opacity: 0.3;
 }
 
 .left.sidebar {

@@ -2,33 +2,29 @@
 title: "Welcome"
 ---
 
-I’m a cybersecurity engineer focused on blue-team infrastructure, network data pipelines, and automation.  
-This site is my technical workspace — a place to document patterns, quick references, and the small discoveries that make systems quieter and more reliable.
+I'm a system engineer in cyber security, focused on blue-team infrastructure, network data pipelines, and automation.
+This website is my little online workspace — a place to document patterns, quick references, and the small discoveries that make systems quieter and more reliable.
+
+I like systems that are calm, tools that are simple, and work that holds up over time.
 
 ---
 
-## ✧ What I Work On
+## ✧ What I work on
 
-- Blue Team & Security Engineering  
-- Python microservices  
-- Logging and data pipelines  
+- Network + security monitoring DevOps  
+- CIS benchmarking and security baselines
 - Agent orchestration and deployment patterns  
-- Infrastructure reliability and observability
+- Alerting scripts in Python, Shell, and PowerShell  
+- Logging and data pipelines  
+- Small-scale self-hosted infrastructure
 
-Everything here is written in a concise, reference-first style.
+I could list my preferred stack, but I usually work with whatever I’m handed.
+I write in a concise, reference-first style.
 
 ---
 
-## ✧ Knowledge Base
+## ✧ Knowledge base
 
-You’ll find:
+Here you'll find guides and implementation notes, architecture patterns, small experiments, and "learning in public" write-ups.
 
-- Guides and implementation notes  
-- Troubleshooting steps  
-- Designs and architecture patterns  
-- Logging/monitoring experiments  
-- Small “learning in public” write-ups  
-
-Built with **Quartz**, using Markdown so everything stays portable and easy to search.
-
-For a bit more on who I am outside the technical side, visit the [About](/about) page.
+If you're curious about the person behind the notes, you can visit the [About](/about) page.

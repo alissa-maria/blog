@@ -1,30 +1,18 @@
 ---
-title: "About Me"
+title: "About me"
 ---
 
-I work as a system engineer in cybersecurity, mainly on blue-team architecture and monitoring environments. My focus is on making systems predictable, scalable, and easier to reason about — with as little noise as possible.
+Unlike the technical engineer crowd in general, I do enjoy things outside of work (just kidding).
+But I do try to have hobbies that don't require a screen, so that my poor eyes get some rest after a full work day of screen ogling.
 
----
+Some of my hands-on projects include:
 
-## ✧ How I Work
+- Reading and writing in all sorts of forms
+- Procrastinating on my [art portfolio](https://alissamaria.nl/) — please God help me
+- Collecting books, stationery, and small crafted objects  
+- Exploring scents from niche perfume houses and learning their notes  
+- Knitting, also known as my most recent struggle, with the goal of making clothing for me and my loved ones that contains no plastic
+- Running outdoors and pushing through reformer pilates
+- Getting coffee with friends, capturing sweet moments, wandering out and about...
 
-- Prefer predictable, quiet systems  
-- Document decisions so no one has to rediscover them  
-- Favour simple, durable solutions over clever ones  
-- Enjoy improving foundations more than patching surface issues  
-
----
-
-## ✧ Outside Work
-
-I spend my free time on slower, hands-on projects:
-
-- Writing and illustrating
-- Collecting books, stationery, and small craftsmanship pieces
-- Modding and restoring handheld consoles
-- Knitting (my most recent struggle)
-- Running, pilates, walking around aimlessly...
-
----
-
-You can return to the [homepage](/) to explore the technical notes.
+For the technical side, you can return to the [homepage](/).

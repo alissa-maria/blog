@@ -3,6 +3,7 @@ title: "Welcome"
 ---
 
 I'm a system engineer in cyber security, focused on blue-team infrastructure, network data pipelines, and automation.
+
 This website is my little online workspace — a place to document patterns, quick references, and the small discoveries that make systems quieter and more reliable.
 
 I like systems that are calm, tools that are simple, and work that holds up over time.
@@ -19,7 +20,8 @@ I like systems that are calm, tools that are simple, and work that holds up over
 - Small-scale self-hosted infrastructure
 
 I could list my preferred stack, but I usually work with whatever I’m handed.
-I write in a concise, reference-first style.
+
+The focus is on clarity: concise, reference-first notes that could be considered useful.
 
 ---
 

@@ -3,6 +3,7 @@ title: "About me"
 ---
 
 Unlike the technical engineer crowd in general, I do enjoy things outside of work (just kidding).
+
 But I do try to have hobbies that don't require a screen, so that my poor eyes get some rest after a full work day of screen ogling.
 
 Some of my hands-on projects include:

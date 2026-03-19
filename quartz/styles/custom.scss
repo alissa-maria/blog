@@ -11,3 +11,32 @@
   margin-left: 0;
   margin-right: auto;
 }
+
+.center article {
+  line-height: 1.65;
+  font-size: 0.98rem;
+}
+
+.center article p {
+  margin-bottom: 0.9rem;
+}
+
+.center h1,
+.center h2,
+.center h3 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.center h2 {
+  margin-top: 2rem;
+}
+
+.center hr {
+  margin: 2rem 0;
+  opacity: 0.3;
+}
+
+.left.sidebar {
+  padding-top: 1rem;
+}

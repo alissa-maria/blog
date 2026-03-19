@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Welcome!"
 ---
 
 I'm a system engineer in cyber security, focused on blue-team infrastructure, network data pipelines, and automation.
@@ -20,8 +20,6 @@ I like systems that are calm, tools that are simple, and work that holds up over
 - Small-scale self-hosted infrastructure
 
 I could list my preferred stack, but I usually work with whatever I’m handed.
-
-The focus is on clarity: concise, reference-first notes that could be considered useful.
 
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: "About me"
+created: 2026-03-19
+modified: 2026-03-23
 ---
 
 Unlike the technical engineer crowd in general, I do enjoy things outside of work (just kidding).
@@ -9,10 +11,10 @@ But I do try to have hobbies that don't require a screen, so that my poor eyes g
 Some of my hands-on projects include:
 
 - Reading and writing in all sorts of forms
-- Procrastinating on my [art portfolio](https://alissamaria.nl/) — please God help me
+- Procrastinating on my [art portfolio](https://alissamaria.nl/)
 - Collecting books, stationery, and small crafted objects  
 - Exploring scents from niche perfume houses and learning their notes  
-- Knitting, also known as my most recent struggle, with the goal of making clothing for me and my loved ones that contains no plastic
+- Knitting (most recent struggle)
 - Running outdoors and pushing through reformer pilates
 - Getting coffee with friends, capturing sweet moments, wandering out and about...
 

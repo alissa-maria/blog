@@ -1,5 +1,6 @@
 ---
 title: "Welcome!"
+created: 2026-03-19
 ---
 
 I'm a system engineer in cyber security, focused on blue-team infrastructure, network data pipelines, and automation.

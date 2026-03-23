@@ -122,7 +122,7 @@ sudo service nginx restart
 >
 > If everything looks correct but it still doesn’t work, it’s often DNS. It’s worth checking your provider’s portal to confirm the records and TTL.
 
-## Step 5: Set up SSL with Let's Encrypt
+## ✧ Step 5: Set up SSL with Let's Encrypt
 
 Install Certbot and request a certificate for the domain:
 
@@ -133,7 +133,7 @@ sudo certbot --nginx -d kibana.mydomain.net
 
 If the DNS record is correct, Certbot should be able to issue the certificate and update the Nginx configuration automatically, including HTTP-to-HTTPS redirection.
 
-## Summary
+## ✧ Summary
 
 At this point, Kibana should be reachable securely at `https://kibana.mydomain.net` through Nginx.
 

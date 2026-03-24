@@ -71,15 +71,15 @@ export default {
       home: "Return to Homepage",
     },
     folderContent: {
-      folder: "Folder",
+      folder: "Section",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
+          count === 1 ? "1 note in this section." : `${count} notes in this section.`,
     },
     tagContent: {
       tag: "Tag",
       tagIndex: "Tag Index",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 item with this tag." : `${count} items with this tag.`,
+        count === 1 ? "1 note with this tag." : `${count} notes with this tag.`,
       showingFirst: ({ count }) => `Showing first ${count} tags.`,
       totalTags: ({ count }) => `Found ${count} total tags.`,
     },

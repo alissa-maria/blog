@@ -6,11 +6,14 @@ tags:
   - wordpress
   - polylang
   - css
+  - block-themes
 ---
 
 I recently made my Dutch portfolio bilingual using Polylang (the free version) on a block theme. The free version does the hard part well: it generates the `/en/` URLs, links each page to its translation, and makes the switcher jump to the *matching* page rather than the homepage. Translating a regular page is just "duplicate, translate the text, done."
 
-The front page is the exception. WordPress renders your static homepage through the `Front Page` template no matter what you assign it, so the English front page loads the Dutch header — and the clean fix sits behind Polylang Pro at €100/year. Here's the workaround: a language-specific header, footer, and whatever else your front page holds, using only CSS. Copy-paste fix first, reasoning and mistakes below. This assumes you're using a block theme, a static front page, and Polylang Free.
+The front page is the exception. WordPress renders your static homepage through the `Front Page` template no matter what you assign it, so the English front page loads the Dutch header — and the clean fix sits behind Polylang Pro at €100/year. Here's the workaround: a language-specific header, footer, and whatever else your front page holds, using only CSS.
+
+This assumes a block theme, a static front page, and Polylang Free. Copy-paste fix first, reasoning and mistakes below.
 
 ## The fix, up front
 

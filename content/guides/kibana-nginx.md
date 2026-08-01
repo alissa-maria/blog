@@ -2,8 +2,10 @@
 title: "Setting up Kibana behind a reverse proxy (Nginx)"
 description: "A straightforward guide to placing Kibana behind an Nginx reverse proxy."
 created: 2025-01-24
-categories: ["Web"]
-tags: ["Kibana", "Nginx"]
+# categories: ["Web"]
+tags:
+  - kibana
+  - nginx
 ---
 
 This guide walks through setting up Kibana behind an Nginx reverse proxy on **Ubuntu 22.04 LTS**, including DNS configuration, SSL with Let's Encrypt, and optional access restrictions.
